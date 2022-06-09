@@ -15,6 +15,6 @@
  Each map will have a `README.md` that will explain the map a bit more in detail but most should be pretty straight forward. I'll also try to post important coordinates if they're needed.
 
 # Special Thanks
- I would like to thank `Nyorai` for initially helping me understand the basics to the Conquer mapping system and pushing me to start this project. And an even bigger thanks to `CptSky` for his wizardry, I would have never been able to test these maps without the magical tools he's created and the help he's provided to understand the deeper mapping system.
+ I would like to thank `Nyorai` for initially helping me understand the basics to the Conquer mapping system and pushing me to start this project. And an even bigger thanks to `CptSky` for his wizardry 🧙🏿‍♂️, I would have never been able to test these maps without the magical tools he's created and the help he's provided to understand the deeper mapping system.
 
  No I will not be releasing my map editor/creator at this time.
