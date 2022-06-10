@@ -778,3 +778,13 @@ FrameAmount=1
 Frame0=data/map/puzzle/importedMaps/dyeShopLarge/01.dds
 
 
+[Object50747]
+FrameAmount=1
+Frame0=data/map/mapobj/customMaps/custom/zcookie.dds
+
+
+[Object1113988]
+FrameAmount=1
+Frame0=data/map/mapobj/customMaps/customClipped/bottomShelf.dds
+
+

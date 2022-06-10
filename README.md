@@ -1,4 +1,4 @@
-# Custom Conquer Maps
+# Conquer Maps
  Here's a collection of some custom created or edited maps using my personal mapping tool. Any of the maps that are posted here are free to use, I just have a couple personal requests if you use them:
  - Don't claim you created it yourself.
  - Do not remove/replace `data/map/mapobj/customMaps/custom/zcookie.dds`. There's a cookie hidden on every map as a sort of "signature" and a game to find them.
