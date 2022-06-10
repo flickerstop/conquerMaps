@@ -14,7 +14,7 @@ Larger Dye Shop so it doesn't cause issues being too small.
 Puzzle Piece: 256
  Puzzle Size: 13x12
    Grid Size: 148x148
-     Objects: 0
+     Objects: 2
 ```
 
 # MiniMap.ani
