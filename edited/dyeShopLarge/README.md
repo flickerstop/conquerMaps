@@ -11,9 +11,10 @@ Larger Dye Shop so it doesn't cause issues being too small.
 - [ ] Has Portals
 - [ ] Has Background
 ```
-Puzzle Size: 13x12
-  Grid Size: 148x148
-    Objects: 0
+Puzzle Piece: 256
+ Puzzle Size: 13x12
+   Grid Size: 148x148
+     Objects: 0
 ```
 
 # MiniMap.ani

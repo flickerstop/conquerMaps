@@ -11,9 +11,10 @@ Updated Stable map to avoid edge of screen bug. This doesn't have a portal on it
 - [ ] Has Portals
 - [ ] Has Background
 ```
-Puzzle Size: 13x12
-  Grid Size: 148x148
-    Objects: 3
+Puzzle Piece: 256
+ Puzzle Size: 13x12
+   Grid Size: 148x148
+     Objects: 3
 ```
 
 # Minimap.ani

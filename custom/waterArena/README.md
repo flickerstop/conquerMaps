@@ -10,9 +10,10 @@ A different style of PK arena. The battle area is about the same size as the def
 - [ ] Has Portals
 - [ ] Has Background
 ```
-Puzzle Size: 14x10
-  Grid Size: 136x136
-    Objects: 61
+Puzzle Piece: 256
+ Puzzle Size: 14x10
+   Grid Size: 136x136
+     Objects: 61
 ```
 
 # Minimap.ani
