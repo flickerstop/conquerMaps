@@ -1,7 +1,7 @@
 # About dyeShopLarge
 Larger Dye Shop so it doesn't cause issues being too small.
 
-![Map Image](https://github.com/flickerstop/conquerMaps/blob/main/dyeShopLarge/data/minimap/dyeShopLarge/main.png)
+![Map Image](https://github.com/flickerstop/conquerMaps/blob/main/edited/dyeShopLarge/data/minimap/dyeShopLarge/main.png)
 
 # Important Coordinates
 - Portal: `76,84`

@@ -1,7 +1,7 @@
 # About waterArena
 A different style of PK arena. The battle area is about the same size as the default PK arena but in a different style.
 
-![Map Image](https://github.com/flickerstop/conquerMaps/blob/main/waterArena/data/minimap/waterArena/main.png)
+![Map Image](https://github.com/flickerstop/conquerMaps/blob/main/custom/waterArena/data/minimap/waterArena/main.png)
 
 # Important Coordinates
 - Playable Area: `46,48 -> 85,86`

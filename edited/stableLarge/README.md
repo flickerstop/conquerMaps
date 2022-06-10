@@ -1,7 +1,7 @@
 # About stableLarge
 Updated Stable map to avoid edge of screen bug. This doesn't have a portal on it so you'll need one yourself if you want to use it.
 
-![Map Image](https://github.com/flickerstop/conquerMaps/blob/main/stableLarge/data/minimap/stableLarge/main.png)
+![Map Image](https://github.com/flickerstop/conquerMaps/blob/main/edited/stableLarge/data/minimap/stableLarge/main.png)
 
 # Important Coordinates
 - Portal Spot: `89,79`
