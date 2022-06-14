@@ -20,3 +20,5 @@
  I would like to thank `Nyorai` for initially helping me understand the basics to the Conquer mapping system and pushing me to start this project. And an even bigger thanks to `CptSky` for his wizardry 🧙🏿‍♂️, I would have never been able to test these maps without the magical tools he's created and the help he's provided to understand the deeper mapping system.
 
  No I will not be releasing my map editor/creator at this time.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/flickerstop)
