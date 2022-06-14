@@ -1,5 +1,5 @@
 # Conquer Maps
- Here's a collection of some custom created or edited maps using my personal mapping tool. Any of the maps that are posted here are free to use, I just have a couple personal requests if you use them:
+ Here's a collection of some custom created or edited maps using my personal mapping tool, no I will not be releasing my map editor/creator at this time. Any of the maps that are posted here are free to use, I just have a couple personal requests if you use them:
  1. Don't claim you created it yourself.
  2. Do not remove/replace `data/map/mapobj/customMaps/custom/zcookie.dds`. There's a cookie hidden on every map as a sort of "signature" and a game to find them.
  3. Just some type of acknowledgement the map was created by "Cookie" when you patch it in.
@@ -19,6 +19,8 @@
 # Special Thanks
  I would like to thank `Nyorai` for initially helping me understand the basics to the Conquer mapping system and pushing me to start this project. And an even bigger thanks to `CptSky` for his wizardry 🧙🏿‍♂️, I would have never been able to test these maps without the magical tools he's created and the help he's provided to understand the deeper mapping system.
 
- No I will not be releasing my map editor/creator at this time.
+# A Message from me
+I'm releasing these maps completely free for everyone and they're created during my free time. I don't intend to profit off these at all so if you like my work and are considering helping me out you can find a link below. I hope you all enjoy them!
 
+ 
 [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/flickerstop)
