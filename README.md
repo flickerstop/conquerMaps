@@ -21,6 +21,3 @@
 
 # A Message from me
 I'm releasing these maps completely free for everyone and they're created during my free time. I don't intend to profit off these at all so if you like my work and are considering helping me out you can find a link below. I hope you all enjoy them!
-
- 
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/flickerstop)
